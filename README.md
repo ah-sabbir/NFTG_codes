@@ -11,3 +11,7 @@ NFTG is a NFT Generator made with pyqt5 and python3.9.10
 </ol>
 
 ### Enjoy Generating your Unique NFT 🤩
+
+![NFT Generator ](https://github.com/ah-sabbir/NFTG_codes/blob/master/samples/Screenshot_2.png)
+
+`git status`
