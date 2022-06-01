@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>assets/folder-icon.ico</file>
+    <file>assets/app-icon.ico</file>
+    <file>assets/app-icon.png</file>
+    <file>assets/icon-31.5x.png</file>
+    <file>assets/icon-31x.png</file>
+    <file>assets/icon-32x.png</file>
+    <file>assets/icon-33x.png</file>
+    <file>assets/icon-34x.png</file>
+    <file>assets/icon-35x.png</file>
+  </qresource>
+  <qresource prefix="imgs">
+    <file>assets/artwork.png</file>
+    <file>../../../Downloads/Group 16.png</file>
+    <file>assets/nftjpg.jpg</file>
+    <file>assets/nftimage.png</file>
+  </qresource>
+</RCC>

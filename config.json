@@ -1,0 +1,16 @@
+{
+    "traits_dir": "C:/Users/USER/Desktop/Porimon",
+    "traits_counter": [
+        5,
+        3,
+        5,
+        5
+    ],
+    "traits": [
+        "Background",
+        "Body",
+        "Eye",
+        "Mouth"
+    ],
+    "max_limit": 375
+}
